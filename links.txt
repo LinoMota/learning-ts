@@ -1,0 +1,3 @@
+Academind) 
+    TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!
+    https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind
