@@ -1,3 +1,12 @@
-Academind) 
+1 - ytAcademind) 
     TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!
     https://www.youtube.com/watch?v=BwuLxPH8IDs&ab_channel=Academind
+
+
+2 - Ben Awad)
+    Typescript Generics Tutorial
+    https://www.youtube.com/watch?v=nViEqpgwxHE&ab_channel=BenAwad
+    
+3 - Beyond the Basics - Eric Potter) 
+    TypeScript - Beyond the Basics - Eric Potter
+    https://www.youtube.com/watch?v=kqdsC_Oj9Gk&ab_channel=NDCConferences
