@@ -75,12 +75,12 @@ class LinkedList<T>{
 }
 
 
-// let lista = new LinkedList<number>()
+let lista = new LinkedList<number>()
 
-// lista.push(1)
-// lista.push(2)
-// lista.push(3)
-// lista.print()
+lista.push(1)
+lista.push(2)
+lista.push(3)
+lista.print()
 
 
 let listaSring = new LinkedList<string>()
